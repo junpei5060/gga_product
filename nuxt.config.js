@@ -10,8 +10,11 @@ module.exports = {
       { hid: 'description', name: 'description', content: 'nakazawa' }
     ],
     link: [
-      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
-    ]
+      { rel: 'icon', type: 'image/x-icon', href: '/gga_product/favicon.ico' }
+    ],
+    router: {
+      base: '/gga_product/'
+    },
   },
   /*
   ** Customize the progress bar color
