@@ -5,7 +5,7 @@
                 一人では<br>
                 辿り着けない景色を
             </h3>
-            <img src="../assets/top1.png" class="main_img">
+            <img src="@/assets/top1.png" class="main_img">
         </div>
         <div class="text_btn">
             <span class="main_text">

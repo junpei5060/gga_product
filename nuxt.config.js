@@ -27,6 +27,7 @@ module.exports = {
     /*
     ** Run ESLint on save
     */
+    standalone: true,
     extend (config, { isDev, isClient }) {
       if (isDev && isClient) {
         config.module.rules.push({

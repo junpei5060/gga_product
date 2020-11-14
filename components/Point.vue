@@ -7,7 +7,7 @@
         <p class="pro_text">
             Combioだからできること
         </p>
-        <img src="../assets/point1.png" class="point_img">
+        <img src="@/assets/point1.png" class="point_img">
         </div>
     </div>
 </template>
