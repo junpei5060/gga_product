@@ -5,7 +5,7 @@
         あなたに最適な理想の上司が見つかります
         </p>
 
-        <img src="/image/pro1.png" class="pro_img">
+        <img src="image/pro1.png" class="pro_img">
     </div>
 </template>
 
