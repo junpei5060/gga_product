@@ -4,7 +4,7 @@
         <h5>
             Combioの利用までの流れ
         </h5>
-        <img src="@/assets/Used1.png" class="Used_img">
+        <img src="/image/Used1.png" class="Used_img">
         </div>
     </div>
 </template>

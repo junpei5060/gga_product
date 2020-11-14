@@ -4,9 +4,9 @@
         <h5>
             Combioの特徴
         </h5>
-        <img src="@/assets/Characteristic1.png" class="Characteristic_img">
-        <img src="@/assets/Characteristic2.png" class="Characteristic_img">
-        <img src="@/assets/Characteristic3.png" class="Characteristic_img" id="Characteristic_img3">
+        <img src="/image/Characteristic1.png" class="Characteristic_img">
+        <img src="/image/Characteristic2.png" class="Characteristic_img">
+        <img src="/image/Characteristic3.png" class="Characteristic_img" id="Characteristic_img3">
         </div>
     </div>
 </template>
