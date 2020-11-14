@@ -8,11 +8,11 @@
             すでに多くのビジネスマンがCambioで成長しています
         </p>
         <div class="pic-ctn">
-        <img src="../assets/voice1.png" class="pic">
-        <img src="../assets/voice1.png" class="pic">
-        <img src="../assets/voice1.png" class="pic">
-        <img src="../assets/voice1.png" class="pic">
-        <img src="../assets/voice1.png" class="pic">
+        <img src="@/assets/voice1.png" class="pic">
+        <img src="@/assets/voice1.png" class="pic">
+        <img src="@/assets/voice1.png" class="pic">
+        <img src="@/assets/voice1.png" class="pic">
+        <img src="@/assets/voice1.png" class="pic">
         </div>
         </div>
     </div>
