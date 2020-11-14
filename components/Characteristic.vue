@@ -4,7 +4,7 @@
         <h5>
             Combioの特徴
         </h5>
-        <img src="/image/Characteristic1.png" class="Characteristic_img">
+        <img src="https://github.com/junpei5060/gga_product/blob/master/static/image/Characteristic1.png?raw=true" class="Characteristic_img">
         <img src="/image/Characteristic2.png" class="Characteristic_img">
         <img src="/image/Characteristic3.png" class="Characteristic_img" id="Characteristic_img3">
         </div>
