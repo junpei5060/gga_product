@@ -46,7 +46,6 @@ font-weight: bold;
 .pic-ctn{
 width: 100px;
 margin-top: 80px;
-margin-bottom: 150px;
 position: relative;
 left: 280px;
 
